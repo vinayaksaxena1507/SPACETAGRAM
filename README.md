@@ -14,7 +14,7 @@
     ·
     <a href="https://github.com/chrisccerami/mars-photo-api">API Source</a>
     ·
-    <a href="https://www.linkedin.com/in/vinayakravisaxena/">Kat's LinkedIn</a>
+    <a href="https://www.linkedin.com/in/vinayakravisaxena/"> LinkedIn</a>
   </p>
 </p>
 
